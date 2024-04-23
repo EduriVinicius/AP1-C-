@@ -1,0 +1,14 @@
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\bin\Debug\net8.0\ap1_imc.exe
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\bin\Debug\net8.0\ap1_imc.deps.json
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\bin\Debug\net8.0\ap1_imc.runtimeconfig.json
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\bin\Debug\net8.0\ap1_imc.dll
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\bin\Debug\net8.0\ap1_imc.pdb
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\ap1_imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\ap1_imc.AssemblyInfoInputs.cache
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\ap1_imc.AssemblyInfo.cs
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\ap1_imc.csproj.CoreCompileInputs.cache
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\ap1_imc.dll
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\refint\ap1_imc.dll
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\ap1_imc.pdb
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\ap1_imc.genruntimeconfig.cache
+C:\Users\Eduri\Desktop\AP1 C# IMC\ap1_imc\obj\Debug\net8.0\ref\ap1_imc.dll
